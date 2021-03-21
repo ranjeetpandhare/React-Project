@@ -1,0 +1,18 @@
+.DottedBoxCss {
+    margin: 40px;
+    background-color: aqua;
+    border: 2px dotted red;
+}
+
+.DottedBoxCss_content {
+    font-size: 50px;
+    text-align: center;
+}
+
+.primary {
+    color: rgb(red, green, blue);
+}
+
+.font-xl {
+    font-size: 50px;
+}
